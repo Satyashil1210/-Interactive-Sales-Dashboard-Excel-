@@ -1,22 +1,25 @@
-# -Interactive Sales Dashboard (Excel)
-An Excel-based dynamic dashboard that provides a visual and interactive summary of sales data. It allows users to filter and analyze sales performance across different products, regions, and time periods.
+📊 Interactive Sales Dashboard (Microsoft Excel)
+A dynamic and visually engaging Excel-based dashboard designed to analyze and monitor sales performance effectively. It enables real-time interaction and deep insights into key business metrics, helping stakeholders make informed decisions.
 
-🔹 Key Features:
-Dynamic charts and KPIs (Total Sales, Profit, Units Sold, etc.)
+🔧 Features:
+Dynamic KPIs – Displays Total Sales, Profit, and Units Sold with real-time updates.
 
-Interactive slicers for real-time filtering (by Region, Product, Month, etc.)
+Interactive Slicers – Filter data instantly by Region, Product Category, and Month.
 
-Conditional formatting to highlight top/bottom performers
+Pivot Tables & Pivot Charts – Aggregates data to provide summarized and meaningful insights.
 
-Pivot Tables for aggregated insights
+Conditional Formatting – Automatically highlights top-performing and underperforming areas.
 
-Clean, user-friendly layout for business decision-making
+User-Friendly Interface – Clean, professional layout optimized for decision-makers.
 
-🛠️ Tools Used:
-Microsoft Excel (Advanced functions)
+🛠️ Tools & Techniques Used:
+Microsoft Excel (Advanced Level)
 
 Pivot Tables & Pivot Charts
 
-Slicers and Timelines
+Slicers & Timelines
 
 Conditional Formatting
+
+Excel Formulas & Functions
+
